@@ -1,4 +1,9 @@
 bin/
 obj/
 Migrations/
-data/
+1.7.csv
+1-15.csv
+7-80.csv
+*.db
+*.db-shm
+*.db-wal
